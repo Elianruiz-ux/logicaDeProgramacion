@@ -1,1 +1,1 @@
-VIDEO DEL CURSO: https://www.youtube.com/watch?v=JQf8XLWU-lc
+VIDEO DEL CURSO: https://www.youtube.com/watch?v=JQf8XLWU-lc, minuto 13:27
