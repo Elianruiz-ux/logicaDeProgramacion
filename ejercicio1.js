@@ -17,7 +17,11 @@ const goal = 8;
 
 console.log(createMagicPotion(potions, goal))
 
-const hola = 'Hola';
-for (let i = 0; i < 10; i++) {
-  console.log(hola);
+
+function hola(valor){
+  for (let i = 0; i < 10; i++) {
+    console.log(valor);
+  }
 }
+
+hola('hola');
